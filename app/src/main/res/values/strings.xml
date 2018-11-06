@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Final</string>
+    <string name="txtNombre">Nombre de la nota</string>
+    <string name="txtDescripcion">descripcion</string>
+    <string name="txtFecha">Fechas</string>
+    <string name="txtHora">Hora</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnMotrar">Mostrar nota</string>
+    <string name="btnEditor">Editar nota</string>
+    <string name="btnEliminar">Eliminar nota</string>
+</resources>
